@@ -9,6 +9,9 @@
   "rules": {
     "linebreak-style": "off",
     "comma-dangle": "off",
-    "semi": "off"
+    "semi": "off",
+    "require-jsdoc": "off",
+    "arrow-parens": "off",
+    "operator-linebreak": "off"
   }
 }
